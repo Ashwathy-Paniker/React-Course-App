@@ -1,0 +1,82 @@
+{
+  "courses": [
+    {
+      "courses_id": 1,
+      "courses_name": "React Js",
+      "image": "react.jpg",
+      "price": "3000$",
+      "Description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components. "
+    },
+    {
+      "courses_id": 2,
+      "courses_name": "Angular Js",
+      "image": "angular.jpg",
+      "price": "4000$",
+      "Description": "AngularJS is a JavaScript-based open-source front-end web framework for developing single-page applications."
+    },
+    {
+      "courses_id": 3,
+      "courses_name": "Node Js",
+      "image": "node.png",
+      "price": "5000$",
+      "Description": "Node.js is an open-source, cross-platform, back-end the V8 engine and executes JavaScript code outside a web browser."
+    },
+    {
+      "courses_id": 4,
+      "courses_name": "Vue Js",
+      "image": "vue.png",
+      "price": "6000$",
+      "Description": "Vue.js is an open-source model–view–viewmodel front end JavaScript framework for user interfaces and single-page."
+    }
+  ],
+  "user": [
+    {
+      "id": 0.7368445351577286,
+      "Name": "Ashwathy Raghunath Paniker",
+      "Email": "ashwathyraghunath@gmail.com",
+      "MobileNumber": "9860199419",
+      "CourseId": 1,
+      "CourseName": "React Js"
+    },
+    {
+      "id": 0.6931523223946188,
+      "Name": "KAMESH",
+      "Email": "kamesh@gmail.com",
+      "MobileNumber": "9890438125",
+      "CourseId": 2,
+      "CourseName": "Angular Js"
+    },
+    {
+      "id": 0.16050169006676063,
+      "Name": "Aparna",
+      "Email": "aparna@gmail",
+      "MobileNumber": "9876543216",
+      "CourseId": 4,
+      "CourseName": "Vue Js"
+    },
+    {
+      "id": 0.6140586018899208,
+      "Name": "sooraj",
+      "Email": "sooraj@gmail.com",
+      "MobileNumber": "7385787912",
+      "CourseId": 2,
+      "CourseName": "Angular Js"
+    },
+    {
+      "id": 0.46826184678096094,
+      "Name": "John",
+      "Email": "john@gmail.com",
+      "MobileNumber": "7896543217",
+      "CourseId": 3,
+      "CourseName": "Node Js"
+    },
+    {
+      "id": 0.4136451760938249,
+      "Name": "Joseph",
+      "Email": "joseph@gmail.com",
+      "MobileNumber": "9876543432",
+      "CourseId": 3,
+      "CourseName": "Node Js"
+    }
+  ]
+}

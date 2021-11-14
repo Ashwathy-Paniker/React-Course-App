@@ -1,0 +1,60 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "pname": "Pencil",
+      "price": "Rs.200",
+      "quantity": 4,
+      "images": "images/1.jpg"
+    },
+    {
+      "id": 2,
+      "pname": "Pen",
+      "price": "Rs.300",
+      "quantity": 3,
+      "images": "images/2.jpg"
+    },
+    {
+      "id": 3,
+      "pname": "Eraser",
+      "price": "Rs.500",
+      "quantity": 6,
+      "images": "images/3.jpeg"
+    },
+    {
+      "id": 4,
+      "pname": "Book",
+      "price": "Rs.400",
+      "quantity": 8,
+      "images": "images/4.jpg"
+    },
+    {
+      "id": 5,
+      "pname": "Scale",
+      "price": "Rs.150",
+      "quantity": 1,
+      "images": "images/5.jpg"
+    },
+    {
+      "id": 6,
+      "pname": "Table",
+      "price": "Rs.250",
+      "quantity": 4,
+      "images": "images/6.png"
+    },
+    {
+      "id": 7,
+      "pname": "Chair",
+      "price": "Rs.450",
+      "quantity": 2,
+      "images": "images/7.jpg"
+    },
+    {
+      "id": 8,
+      "pname": "Laptop",
+      "price": "Rs.550",
+      "quantity": 9,
+      "images": "images/8.jpg"
+    }
+  ]
+}
